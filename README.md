@@ -2,4 +2,4 @@
 
 snake the arcade game running in windos XP Virtual Box, code writing in assembly
 
-written in Jan, 2, 2018
+written in Jan, 2, 2019
